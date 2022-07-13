@@ -9,7 +9,7 @@
 
 ## Live Demo
 
-[Live Link](https://nayankaran.github.io/TV_Arena/)
+[Live Link](https://wale-prog.github.io/tv-arena/)
 
 ## Getting Started
 
