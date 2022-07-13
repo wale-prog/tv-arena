@@ -43,18 +43,18 @@
 
 ## Authors
 
-👤 **Debabrata Mandal (Nayan Karan)**
-
-- GitHub: [@NayanKaran](https://github.com/NayanKaran)
-- Twitter: [@bapidebabrata](https://twitter.com/bapidebabrata)
-- LinkedIn: [debabrata-mandal-83461696](https://www.linkedin.com/in/debabrata-mandal-83461696/)
-
-
 👤 **Wale Olapetan**
 
 - GitHub: [@wale-prog](https://github.com/wale-prog)
 - Twitter: [@Wale_Petan](https://twitter.com/wale_Petan)
 - LinkedIn: [walepetan](https://www.linkedin.com/in/walepetan/)
+
+
+👤 **Debabrata Mandal (Nayan Karan)**
+
+- GitHub: [@NayanKaran](https://github.com/NayanKaran)
+- Twitter: [@bapidebabrata](https://twitter.com/bapidebabrata)
+- LinkedIn: [debabrata-mandal-83461696](https://www.linkedin.com/in/debabrata-mandal-83461696/)
 
 
 ## 🤝 Contributing
